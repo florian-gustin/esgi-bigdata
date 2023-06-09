@@ -2,6 +2,10 @@
 
 Florian GUSTIN - Haitem LIHAM and Cedric LEPROHON
 
+## Requirements
+
+Please insert full.csv and englishST.txt into /input/
+
 ## Deployment
 
 You must docker and override envirnonment ``SPARK_WORKER_MEMORY`` (default 4 gb) in ```docker-compose.yml```
